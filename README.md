@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--# Hi, I'm Ezgi 👋
 
 Backend-focused Computer Programming student. Currently taking **AIP444 (AI Programming for Developers)** and building practical projects with **Node.js/Express**, **SQL**, and solid CS fundamentals (**DSA**).
@@ -28,5 +26,3 @@ Backend-focused Computer Programming student. Currently taking **AIP444 (AI Prog
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ezgi-yilmaz-1348572ba/
 - Email: eyilmaz4@myseneca.ca
-**ezgicodes/ezgicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
